@@ -6,7 +6,7 @@
 *Brazilian Portuguese*
 - Fluent
 
-*English
+*English*
 - Intermediate Level (B2)
 
 ## Technologies
