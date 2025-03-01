@@ -6,11 +6,8 @@
 *Brazilian Portuguese*
 - Fluent
 
-*English - Intermediate Level*
-- Speaking (B1)
-- Writing (B1)
-- Listening (B1)
-- Reading (B2)
+*English
+- Intermediate Level (B2)
 
 ## Technologies
 
